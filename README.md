@@ -1,4 +1,5 @@
 projects
 ========
 
-miscellaneous projects
+Steve's miscellaneous projects.
+
